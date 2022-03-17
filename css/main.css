@@ -1,0 +1,30 @@
+/* Config Global */
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow-y: hidden;
+	background: #464B52;
+}
+
+
+
+/* FONTES GOOGLE FONTS */
+
+/* Goblin One */
+
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
+
+/* MontSerrat */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
